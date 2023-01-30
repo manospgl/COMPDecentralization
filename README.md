@@ -1,1 +1,1 @@
-# COMP_decentralization_analysis
+# COMP decentralization analysis files and data
